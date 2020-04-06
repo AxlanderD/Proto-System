@@ -1,2 +1,7 @@
 # personalWeb
-个人网站搭建~
+# 环境
+- SpringBoot
+- MyBatis
+- VueJS
+------------------
+不定时更新扩展
