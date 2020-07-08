@@ -1,7 +1,12 @@
-# personalWeb
-# 环境
+# Prototype commissioning system
+
+# 搭建环境
 - SpringBoot
-- MyBatis
-- VueJS
+- FastDFS
+- Nginx
+- MySQL
+- Redis
+- VUE
+
 ------------------
 不定时更新扩展
